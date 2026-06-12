@@ -1,0 +1,12 @@
+# 配置文件（包含 API Key）
+config.json
+
+# 日志文件
+*.log
+
+# macOS
+.DS_Store
+
+# Node.js (如果有依赖)
+node_modules/
+package-lock.json
