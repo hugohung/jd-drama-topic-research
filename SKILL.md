@@ -1,5 +1,5 @@
 ---
-name: drama-topic-research
+name: jd-drama-topic-research
 description: 热门话题及短剧题材调研专家。自动搜集微博、知乎、小红书等18个平台热榜，结合红果短剧热播数据，分析话题适配度，生成题材推荐报告及分集脚本框架。
 version: "2.1.0"
 author: honghaoxiang
