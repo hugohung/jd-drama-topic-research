@@ -94,4 +94,4 @@ console.log('   1. 如果未配置 API Key，请编辑 config.json');
 console.log('   2. 运行测试命令：');
 console.log('      node scripts/fetch-hotnews.js --platforms weibo,zhihu');
 console.log('      node scripts/fetch-hongguo.js --action top');
-console.log('   3. 在 WorkBuddy 中测试 skill\n');
+console.log('   3. 在当前 Agent 中测试 Skill\n');

@@ -1,10 +1,10 @@
 # 🔥 热门话题及短剧题材调研专家
 
-> **WorkBuddy Skill** — 从热点中挖掘短剧题材，提供专业调研报告与创作支持
+> **Agent Skill** — 从热点中挖掘短剧题材，提供专业调研报告与创作支持
 
 [![Version](https://img.shields.io/badge/version-2.1.0-blue.svg)](https://github.com/hugohung/workbuddy-skill-drama-topic-research/releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![WorkBuddy](https://img.shields.io/badge/WorkBuddy-skill-orange.svg)](https://www.codebuddy.cn)
+[![Agent Skill](https://img.shields.io/badge/Agent-Skill-orange.svg)](#)
 
 ---
 
@@ -59,7 +59,7 @@
 
 ### 使用示例
 
-在 WorkBuddy 对话中直接说：
+在支持 Skill 的 Agent 对话中直接说：
 
 ```
 帮我调研一下最近的短剧题材
@@ -127,10 +127,10 @@
 
 ## 📦 安装方式
 
-### 方式一：WorkBuddy 用户
+### 方式一：Agent 用户
 
 1. 下载 [最新 Release zip](../../releases/latest)
-2. 在 WorkBuddy **技能管理** → **上传技能**，选择 zip 文件
+2. 在 Agent 客户端的 **Skill 管理** → **上传技能**，选择 zip 文件
 
 ### 方式二：从源码安装
 
@@ -229,7 +229,7 @@ git clone https://github.com/hugohung/workbuddy-skill-drama-topic-research.git ~
 **honghaoxiang**
 
 - GitHub: [@hugohung](https://github.com/hugohung)
-- WorkBuddy: [codebuddy.cn](https://www.codebuddy.cn)
+- 适用环境：支持 Skill 的 Agent 客户端
 
 ---
 
